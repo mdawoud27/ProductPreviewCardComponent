@@ -1,4 +1,4 @@
-## Product preview card component
+## [Product preview card component](https://github.com/mdawoud27/frontendMentorChallenges/tree/main/challenge-02)
 
 * [Challenge Link](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 * [Live Demo](https://challenge-two-ruby.vercel.app/)
