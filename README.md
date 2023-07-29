@@ -1,2 +1,3 @@
-# ProductPreviewCardComponent
-Challenge using HTML and CSS from frontend mentor 
+## frontendMentor-ch2
+
+### [Live Demo](https://mdawoud27.github.io/frontendMentor-ch2/)
